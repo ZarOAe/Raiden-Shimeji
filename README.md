@@ -1,6 +1,6 @@
 # Raiden Shimeji ⚡
 
-Un petit personnage qui se balade sur ton bureau !
+
 
 ## Comment lancer (Linux)
 1. Télécharge le dossier.
